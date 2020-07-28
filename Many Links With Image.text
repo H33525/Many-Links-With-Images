@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <title>My HTML</title>
+
+  </head> 
+<BODY style="background-color:orange;">
+<a href="https://www.google.com/"><img src=google.png alt="MYPIC" width="104" height="142"> </a>
+<h1>google</h1>
+
+<a href="https://www.Youtube.com/"><img src=Youtube.png alt="MYPIC" width="104" height="142"> </a>
+<h1>Youtube</h1>
+
+<a href="https://www.Facebook.com/"><img src=Facebook.png alt="MYPIC" width="104" height="142"> </a>
+<h1>Facebook</h1>
+
+<a href="https://www.Linkedin.com/"><img src=Linkedln.png alt="MYPIC" width="104" height="142"> </a>
+<h2>Linkedln</h2>
+
+<a href="https://www.twitter.com/"><img src=twitter.png alt="MYPIC" width="104" height="142"> </a>
+<h2>twitter</h2>
+
+<a href="https://www.whatsapp.com/"><img src=whatsapp.png alt="MYPIC" width="104" height="142"> </a>
+<h2>whatsapp</h2>
+  </body>
+  </html>
